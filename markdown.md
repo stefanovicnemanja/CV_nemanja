@@ -15,11 +15,16 @@ Nemanja Stefanovic
 
 ## Personal statement
 
-- Summary: [ДОРАДИ!!!] пример: A highly experienced and creative web developer with three years experience in a variety of exciting projects. A level head and rational approach to problem solving combined with a passion for innovative and fresh ideas has led to a portfolio of impressive website solutions. Technically competent and industry aware means that each project is undertaken with the most up-to-date and relevant programming foundations available. A strong communicator with the ability to convey ideas clearly with an emphasis on client satisfaction.
-- Preferred position: Web developer
+Summary: [ДОРАДИ!!!] пример: A highly experienced and creative web developer with three years of experience in a variety of exciting projects. A level head and rational approach to problem solving combined with a passion for innovative and fresh ideas has led to a portfolio of impressive website solutions. Technically competent and industry aware means that each project is undertaken with the most up-to-date and relevant programming foundations available. A strong communicator with the ability to convey ideas clearly with an emphasis on client satisfaction.
+
 A highly focused software developer with seven years’ experience in a variety of development and engineering positions. Organised, methodical and a keen eye for detail results in solid coding and trustworthy software programmes. Understanding client requirements and communicating the progress of projects are core values in achieving long lasting business relationships.
 
-- Exceptionally creative and dependable Entry Level Web Developer with a stellar customer service record and superb work ethic. Broadly and deeply knowledgeable in a wide variety of computer languages as well as the principles and techniques of website construction and maintenance. Highly adept at conveying complex technical information to a variety of professional and lay audiences in a clear and understandable manner.
+Broadly and deeply knowledgeable in a wide variety of computer languages as well as the principles and techniques of website construction and maintenance. Highly adept at conveying complex technical information to a variety of professional and lay audiences in a clear and understandable manner. 
+
+
+
+- Exceptionally creative and dependable Entry Level Web Developer with a stellar customer service record and superb work ethic.A level head and rational approach to problem solving combined with a passion for innovative and fresh ideas has led to a portfolio of impressive website solutions. Organised, methodical and a keen eye for detail results in solid coding and trustworthy software programmes. Understanding client requirements and communicating the progress of projects are core values in achieving long lasting business relationships.
+Preferred position: Web developer
 
 
 ## Work experience
